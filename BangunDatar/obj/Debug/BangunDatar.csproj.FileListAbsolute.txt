@@ -1,0 +1,6 @@
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojResolveAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+C:\Users\muham\OneDrive\Documents\coding\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb
